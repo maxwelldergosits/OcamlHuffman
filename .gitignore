@@ -1,2 +1,9 @@
 *.txt
+*compress
+*decompress
+*.o
+*.cmx
+*.cmo
+*.cmi
+*.cmxi
 .DS_Store
